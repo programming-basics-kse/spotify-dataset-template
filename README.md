@@ -8,13 +8,12 @@
 2. **Average Liveliness with Energy Criteria:**
    - Find the average value of liveliness for tracks where energy is greater than 0.5.
 
-3. **Recurring Artists and Song Titles:**
-   - Identify artists whose tracks appear more than once in the list.
-   - Display artists and song titles for the recurring tracks.
-     
-## Self-practice    
+3. **The most popular artist:**
+   - Identify artists  whose tracks appear the most in the list.
+## Self-practice 
+
 4. **Explicit songs**
-   - Find amount of explicit songs
+   - Find the amount of explicit songs
      
 5. **The most popular year**
    - Find the year when the most songs were released
